@@ -1,0 +1,24 @@
+{
+"products"': [
+{"id":1,"name":"Fengjiang","category":"Aquamarine"},
+{"id":2,"name":"Lorient","category":"Purple"},
+{"id":3,"name":"Valencia","category":"Puce"},
+{"id":4,"name":"Florida","category":"Blue"},
+{"id":5,"name":"Şirvan","category":"Crimson"},
+{"id":6,"name":"Zhentou","category":"Goldenrod"},
+{"id":7,"name":"Otavalo","category":"Purple"},
+{"id":8,"name":"Leramatang","category":"Goldenrod"},
+{"id":9,"name":"Uritsk","category":"Maroon"},
+{"id":10,"name":"Tây Đằng","category":"Indigo"},
+{"id":11,"name":"Mamurras","category":"Green"},
+{"id":12,"name":"Fāmenīn","category":"Yellow"},
+{"id":13,"name":"Yankou","category":"Teal"},
+{"id":14,"name":"Francistown","category":"Pink"},
+{"id":15,"name":"Baligród","category":"Red"},
+{"id":16,"name":"Le Lamentin","category":"Puce"},
+{"id":17,"name":"Hanjia","category":"Goldenrod"},
+{"id":18,"name":"Mao","category":"Green"},
+{"id":19,"name":"Krajan Tengah","category":"Khaki"},
+{"id":20,"name":"Kronshtadt","category":"Goldenrod"}
+]
+}
